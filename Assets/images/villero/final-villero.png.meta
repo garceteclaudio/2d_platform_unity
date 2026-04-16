@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: ebad3e5485332614596cd81d1f0fd684
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 312988069635037640
+    second: final-villero_0
+  - first:
+      213: -6642220817321669412
+    second: final-villero_1
+  - first:
+      213: -8900609088162055747
+    second: final-villero_2
+  - first:
+      213: 3698316196374401050
+    second: final-villero_3
+  - first:
+      213: -188948016232829609
+    second: final-villero_4
+  - first:
+      213: 1149648990140722160
+    second: final-villero_5
+  - first:
+      213: 6442976329939114981
+    second: final-villero_6
+  - first:
+      213: -7647200215437574805
+    second: final-villero_7
+  - first:
+      213: 6554970349621197948
+    second: final-villero_8
+  - first:
+      213: -5774552677824701578
+    second: final-villero_9
+  - first:
+      213: 821134035277970069
+    second: final-villero_10
+  - first:
+      213: -4872061599141485432
+    second: final-villero_11
+  - first:
+      213: 7157174173712124590
+    second: final-villero_12
+  - first:
+      213: 5777952171077866180
+    second: final-villero_13
+  - first:
+      213: -9204471768611147557
+    second: final-villero_14
+  - first:
+      213: 4140162492147744600
+    second: final-villero_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: final-villero_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 488
+        width: 67
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c91885bdf4f75400800000000000000
+      internalID: 312988069635037640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 487
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc46dfcb5712d3a0800000000000000
+      internalID: -6642220817321669412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 489
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9bc77113faa7480800000000000000
+      internalID: -8900609088162055747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 489
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1058ff6cfe035330800000000000000
+      internalID: 3698316196374401050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 318
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d6d63c7c8b06df0800000000000000
+      internalID: -188948016232829609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 319
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb69b95aaf54ff00800000000000000
+      internalID: 1149648990140722160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 318
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb5542f5dc0a6950800000000000000
+      internalID: 6442976329939114981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 318
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7d80bbefafd590800000000000000
+      internalID: -7647200215437574805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 177
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cb362adcee7fa50800000000000000
+      internalID: 6554970349621197948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 177
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b5a753feaacdfa0800000000000000
+      internalID: -5774552677824701578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 175
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59af9b5fd01456b00800000000000000
+      internalID: 821134035277970069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 176
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884a953f9c5f26cb0800000000000000
+      internalID: -4872061599141485432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa06bb9df3635360800000000000000
+      internalID: 7157174173712124590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c21b4ef2e86f2050800000000000000
+      internalID: 5777952171077866180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 7
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd032de91b5234080800000000000000
+      internalID: -9204471768611147557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final-villero_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fbcd0e9dfc47930800000000000000
+      internalID: 4140162492147744600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      final-villero_0: 312988069635037640
+      final-villero_1: -6642220817321669412
+      final-villero_10: 821134035277970069
+      final-villero_11: -4872061599141485432
+      final-villero_12: 7157174173712124590
+      final-villero_13: 5777952171077866180
+      final-villero_14: -9204471768611147557
+      final-villero_15: 4140162492147744600
+      final-villero_2: -8900609088162055747
+      final-villero_3: 3698316196374401050
+      final-villero_4: -188948016232829609
+      final-villero_5: 1149648990140722160
+      final-villero_6: 6442976329939114981
+      final-villero_7: -7647200215437574805
+      final-villero_8: 6554970349621197948
+      final-villero_9: -5774552677824701578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1401 @@
+fileFormatVersion: 2
+guid: 9bb1150a750610445a4cd5a0f3d97c67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4928642596837923049
+    second: zombie-gordo-_0
+  - first:
+      213: -5278250300183198984
+    second: zombie-gordo-_1
+  - first:
+      213: -3778043058167476464
+    second: zombie-gordo-_2
+  - first:
+      213: 665363272191695726
+    second: zombie-gordo-_3
+  - first:
+      213: -2346491564821758475
+    second: zombie-gordo-_4
+  - first:
+      213: 913322658907774320
+    second: zombie-gordo-_5
+  - first:
+      213: -436046912119053247
+    second: zombie-gordo-_6
+  - first:
+      213: 666108202917831204
+    second: zombie-gordo-_7
+  - first:
+      213: 2074310542018779084
+    second: zombie-gordo-_8
+  - first:
+      213: 4923668650571453497
+    second: zombie-gordo-_9
+  - first:
+      213: 4869515243610513608
+    second: zombie-gordo-_10
+  - first:
+      213: 3842505644019338133
+    second: zombie-gordo-_11
+  - first:
+      213: -7872140486617589546
+    second: zombie-gordo-_12
+  - first:
+      213: -6432997013108256932
+    second: zombie-gordo-_13
+  - first:
+      213: -8313407280478644923
+    second: zombie-gordo-_14
+  - first:
+      213: 3972243114058277100
+    second: zombie-gordo-_15
+  - first:
+      213: -3932164913636986093
+    second: zombie-gordo-_16
+  - first:
+      213: 7136965006089626019
+    second: zombie-gordo-_17
+  - first:
+      213: 8224244486944235958
+    second: zombie-gordo-_18
+  - first:
+      213: -2338809400485624256
+    second: zombie-gordo-_19
+  - first:
+      213: -8236942900036193074
+    second: zombie-gordo-_20
+  - first:
+      213: 1635200954947606690
+    second: zombie-gordo-_21
+  - first:
+      213: -3287080711934899960
+    second: zombie-gordo-_22
+  - first:
+      213: 9110496355842192226
+    second: zombie-gordo-_23
+  - first:
+      213: 1346621653843864489
+    second: zombie-gordo-_24
+  - first:
+      213: 6581094500027324113
+    second: zombie-gordo-_25
+  - first:
+      213: 2606736134725727661
+    second: zombie-gordo-_26
+  - first:
+      213: 2144528097969188552
+    second: zombie-gordo-_27
+  - first:
+      213: -8835090618718039600
+    second: zombie-gordo-_28
+  - first:
+      213: 6535056601173211307
+    second: zombie-gordo-_29
+  - first:
+      213: -6476792819687297121
+    second: zombie-gordo-_30
+  - first:
+      213: -5166107296502169630
+    second: zombie-gordo-_31
+  - first:
+      213: -7371503931039423241
+    second: zombie-gordo-_32
+  - first:
+      213: 3840157412696912384
+    second: zombie-gordo-_33
+  - first:
+      213: -1425350596404703649
+    second: zombie-gordo-_34
+  - first:
+      213: 3160304378942862413
+    second: zombie-gordo-_35
+  - first:
+      213: -1205082797177618257
+    second: zombie-gordo-_36
+  - first:
+      213: 8845542400213542991
+    second: zombie-gordo-_37
+  - first:
+      213: -8038306476588421786
+    second: zombie-gordo-_38
+  - first:
+      213: -3169831171805608218
+    second: zombie-gordo-_39
+  - first:
+      213: 4027604164890760297
+    second: zombie-gordo-_40
+  - first:
+      213: 235903879210607163
+    second: zombie-gordo-_41
+  - first:
+      213: -4665963306255419415
+    second: zombie-gordo-_42
+  - first:
+      213: 8696715282173615799
+    second: zombie-gordo-_43
+  - first:
+      213: -8378564449752573756
+    second: zombie-gordo-_44
+  - first:
+      213: -6712231079668623921
+    second: zombie-gordo-_45
+  - first:
+      213: -5681556373762621700
+    second: zombie-gordo-_46
+  - first:
+      213: -8073572302200915239
+    second: zombie-gordo-_47
+  - first:
+      213: 7581025045536800181
+    second: zombie-gordo-_48
+  - first:
+      213: -262336926392747008
+    second: zombie-gordo-_49
+  - first:
+      213: -4156999412071678200
+    second: zombie-gordo-_50
+  - first:
+      213: 2183322592215904689
+    second: zombie-gordo-_51
+  - first:
+      213: -8661597930617458960
+    second: zombie-gordo-_52
+  - first:
+      213: 910216866450267203
+    second: zombie-gordo-_53
+  - first:
+      213: -4704782040112024820
+    second: zombie-gordo-_54
+  - first:
+      213: 471171549433562788
+    second: zombie-gordo-_55
+  - first:
+      213: 7075101187615394090
+    second: zombie-gordo-_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie-gordo-_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 227
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717ed96dba1f99bb0800000000000000
+      internalID: -4928642596837923049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 227
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f24bfd3153efb6b0800000000000000
+      internalID: -5278250300183198984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 226
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f0cc30bd1b19bc0800000000000000
+      internalID: -3778043058167476464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 226
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bd39dee58db3900800000000000000
+      internalID: 665363272191695726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 226
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd3952aa569f6fd0800000000000000
+      internalID: -2346491564821758475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 227
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d53898e16ccac00800000000000000
+      internalID: 913322658907774320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 224
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144ecb9c4a9d2f9f0800000000000000
+      internalID: -436046912119053247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 224
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc790e2a27e69cc10800000000000000
+      internalID: 2074310542018779084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 224
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c021c3705ef39340800000000000000
+      internalID: 4869515243610513608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 224
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bc4375682535530800000000000000
+      internalID: 3842505644019338133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_12
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 224
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d810319fe980c290800000000000000
+      internalID: -7872140486617589546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 224
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f8880dc4769b6a0800000000000000
+      internalID: -6432997013108256932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5459cedef18d0ac80800000000000000
+      internalID: -8313407280478644923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 147
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b96438d42e69c0800000000000000
+      internalID: -3932164913636986093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 147
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a64679c2622270800000000000000
+      internalID: 8224244486944235958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 141
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046c5b6ed31ea8fd0800000000000000
+      internalID: -2338809400485624256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 146
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4ba28d21080bd80800000000000000
+      internalID: -8236942900036193074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 147
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80905191281f162d0800000000000000
+      internalID: -3287080711934899960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 146
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263f6798a2cfe6e70800000000000000
+      internalID: 9110496355842192226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 146
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab663c624920b210800000000000000
+      internalID: 1346621653843864489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_25
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 146
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6d763649eb45b50800000000000000
+      internalID: 6581094500027324113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_26
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 146
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5708514bcfc2420800000000000000
+      internalID: 2606736134725727661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 145
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2c4261f4e2cd10800000000000000
+      internalID: 2144528097969188552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_28
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 146
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1dce084e3736580800000000000000
+      internalID: -8835090618718039600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 74
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fecbafe3fcd16a0800000000000000
+      internalID: -6476792819687297121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 73
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4eff90b3823b990800000000000000
+      internalID: -7371503931039423241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 73
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e08e43f23283ce0800000000000000
+      internalID: -1425350596404703649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 74
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa04b4da49fa64fe0800000000000000
+      internalID: -1205082797177618257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 74
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48626282fda1ca70800000000000000
+      internalID: 8845542400213542991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_38
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 73
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66da93b29d2327090800000000000000
+      internalID: -8038306476588421786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 73
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6019ef75f7204d0800000000000000
+      internalID: -3169831171805608218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_40
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 73
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964923816ace4e730800000000000000
+      internalID: 4027604164890760297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_41
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 72
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b322c790459164300800000000000000
+      internalID: 235903879210607163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_42
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 73
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e773a3281b2f3fb0800000000000000
+      internalID: -4665963306255419415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_43
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 73
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be5ba2d870f0b870800000000000000
+      internalID: 8696715282173615799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_44
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 73
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c818c4460c59bb80800000000000000
+      internalID: -8378564449752573756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5d30e556d59d2a0800000000000000
+      internalID: -6712231079668623921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeb58a849e0721b0800000000000000
+      internalID: -5681556373762621700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab1ea44c8e4ff80800000000000000
+      internalID: -8073572302200915239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd7f88ec16353960800000000000000
+      internalID: 7581025045536800181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_49
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c74e294fdfb5cf0800000000000000
+      internalID: -262336926392747008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_50
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fb5f73f0f5f46c0800000000000000
+      internalID: -4156999412071678200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_51
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b13d137458bc4e10800000000000000
+      internalID: 2183322592215904689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fea94eb292dbc780800000000000000
+      internalID: -8661597930617458960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_53
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c5651ea6db1ac00800000000000000
+      internalID: 910216866450267203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_54
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c033c7959a145beb0800000000000000
+      internalID: -4704782040112024820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_55
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 0
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a602402700f98600800000000000000
+      internalID: 471171549433562788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-gordo-_56
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2982cd6b0fcf2260800000000000000
+      internalID: 7075101187615394090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f9957c58e2db7ad428fe9b60f15860d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zombie-gordo-_0: -4928642596837923049
+      zombie-gordo-_1: -5278250300183198984
+      zombie-gordo-_10: 4869515243610513608
+      zombie-gordo-_11: 3842505644019338133
+      zombie-gordo-_12: -7872140486617589546
+      zombie-gordo-_13: -6432997013108256932
+      zombie-gordo-_14: -8313407280478644923
+      zombie-gordo-_15: 3972243114058277100
+      zombie-gordo-_16: -3932164913636986093
+      zombie-gordo-_17: 7136965006089626019
+      zombie-gordo-_18: 8224244486944235958
+      zombie-gordo-_19: -2338809400485624256
+      zombie-gordo-_2: -3778043058167476464
+      zombie-gordo-_20: -8236942900036193074
+      zombie-gordo-_21: 1635200954947606690
+      zombie-gordo-_22: -3287080711934899960
+      zombie-gordo-_23: 9110496355842192226
+      zombie-gordo-_24: 1346621653843864489
+      zombie-gordo-_25: 6581094500027324113
+      zombie-gordo-_26: 2606736134725727661
+      zombie-gordo-_27: 2144528097969188552
+      zombie-gordo-_28: -8835090618718039600
+      zombie-gordo-_29: 6535056601173211307
+      zombie-gordo-_3: 665363272191695726
+      zombie-gordo-_30: -6476792819687297121
+      zombie-gordo-_31: -5166107296502169630
+      zombie-gordo-_32: -7371503931039423241
+      zombie-gordo-_33: 3840157412696912384
+      zombie-gordo-_34: -1425350596404703649
+      zombie-gordo-_35: 3160304378942862413
+      zombie-gordo-_36: -1205082797177618257
+      zombie-gordo-_37: 8845542400213542991
+      zombie-gordo-_38: -8038306476588421786
+      zombie-gordo-_39: -3169831171805608218
+      zombie-gordo-_4: -2346491564821758475
+      zombie-gordo-_40: 4027604164890760297
+      zombie-gordo-_41: 235903879210607163
+      zombie-gordo-_42: -4665963306255419415
+      zombie-gordo-_43: 8696715282173615799
+      zombie-gordo-_44: -8378564449752573756
+      zombie-gordo-_45: -6712231079668623921
+      zombie-gordo-_46: -5681556373762621700
+      zombie-gordo-_47: -8073572302200915239
+      zombie-gordo-_48: 7581025045536800181
+      zombie-gordo-_49: -262336926392747008
+      zombie-gordo-_5: 913322658907774320
+      zombie-gordo-_50: -4156999412071678200
+      zombie-gordo-_51: 2183322592215904689
+      zombie-gordo-_52: -8661597930617458960
+      zombie-gordo-_53: 910216866450267203
+      zombie-gordo-_54: -4704782040112024820
+      zombie-gordo-_55: 471171549433562788
+      zombie-gordo-_56: 7075101187615394090
+      zombie-gordo-_6: -436046912119053247
+      zombie-gordo-_7: 666108202917831204
+      zombie-gordo-_8: 2074310542018779084
+      zombie-gordo-_9: 4923668650571453497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

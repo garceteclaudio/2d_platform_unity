@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 67aa7a79b16f05f45bf43a3255be452e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8148055508661389488
+    second: auto en llamas_0
+  - first:
+      213: -8575277828186567677
+    second: auto en llamas_1
+  - first:
+      213: -5909107450415167484
+    second: auto en llamas_2
+  - first:
+      213: 4686456774148321309
+    second: auto en llamas_3
+  - first:
+      213: 4856877439022770667
+    second: auto en llamas_4
+  - first:
+      213: -2075051898160006320
+    second: auto en llamas_5
+  - first:
+      213: -775082693688014733
+    second: auto en llamas_6
+  - first:
+      213: -3964519308421302430
+    second: auto en llamas_7
+  - first:
+      213: -4819478665886688919
+    second: auto en llamas_8
+  - first:
+      213: 7167531618599515505
+    second: auto en llamas_9
+  - first:
+      213: 3718346010858919056
+    second: auto en llamas_10
+  - first:
+      213: -2659863907139691535
+    second: auto en llamas_11
+  - first:
+      213: 1047268981259850174
+    second: auto en llamas_12
+  - first:
+      213: -4768490619725019907
+    second: auto en llamas_13
+  - first:
+      213: -3927102418533574900
+    second: auto en llamas_14
+  - first:
+      213: -4825635598929883598
+    second: auto en llamas_15
+  - first:
+      213: -1552073306620757489
+    second: auto en llamas_16
+  - first:
+      213: 2035920189593914809
+    second: auto en llamas_17
+  - first:
+      213: 8082616521505819629
+    second: auto en llamas_18
+  - first:
+      213: -7187561067127718183
+    second: auto en llamas_19
+  - first:
+      213: 403447504184219179
+    second: auto en llamas_20
+  - first:
+      213: 8562256140795363884
+    second: auto en llamas_21
+  - first:
+      213: -1913477974621637995
+    second: auto en llamas_22
+  - first:
+      213: -183483313494433800
+    second: auto en llamas_23
+  - first:
+      213: -1780989901408107121
+    second: auto en llamas_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: auto en llamas_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 593
+        width: 336
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057b2146faa4cee80800000000000000
+      internalID: -8148055508661389488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auto en llamas_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 590
+        width: 316
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c08a0cf3e7ef880800000000000000
+      internalID: -8575277828186567677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auto en llamas_2
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 590
+        width: 317
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408c366e412aefda0800000000000000
+      internalID: -5909107450415167484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auto en llamas_3
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 588
+        width: 335
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10755e2b93a90140800000000000000
+      internalID: 4686456774148321309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auto en llamas_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 213
+        width: 338
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9af864c48176340800000000000000
+      internalID: 4856877439022770667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auto en llamas_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 214
+        width: 343
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3cafea4fe333e0800000000000000
+      internalID: -2075051898160006320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auto en llamas_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 213
+        width: 334
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3784c2b856a5e35f0800000000000000
+      internalID: -775082693688014733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auto en llamas_7
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 213
+        width: 352
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267fe54a1b23bf8c0800000000000000
+      internalID: -3964519308421302430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9b9fde827690a614faeebff3fa522e29
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      auto en llamas_0: -8148055508661389488
+      auto en llamas_1: -8575277828186567677
+      auto en llamas_10: 3718346010858919056
+      auto en llamas_11: -2659863907139691535
+      auto en llamas_12: 1047268981259850174
+      auto en llamas_13: -4768490619725019907
+      auto en llamas_14: -3927102418533574900
+      auto en llamas_15: -4825635598929883598
+      auto en llamas_16: -1552073306620757489
+      auto en llamas_17: 2035920189593914809
+      auto en llamas_18: 8082616521505819629
+      auto en llamas_19: -7187561067127718183
+      auto en llamas_2: -5909107450415167484
+      auto en llamas_20: 403447504184219179
+      auto en llamas_21: 8562256140795363884
+      auto en llamas_22: -1913477974621637995
+      auto en llamas_23: -183483313494433800
+      auto en llamas_24: -1780989901408107121
+      auto en llamas_3: 4686456774148321309
+      auto en llamas_4: 4856877439022770667
+      auto en llamas_5: -2075051898160006320
+      auto en llamas_6: -775082693688014733
+      auto en llamas_7: -3964519308421302430
+      auto en llamas_8: -4819478665886688919
+      auto en llamas_9: 7167531618599515505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

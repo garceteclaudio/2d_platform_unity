@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: 0eff09de694dca74f86d7350f81672ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7096628384563705272
+    second: fogata_0
+  - first:
+      213: 3748657124823810633
+    second: fogata_1
+  - first:
+      213: -439847511589994268
+    second: fogata_2
+  - first:
+      213: -6269673613530879418
+    second: fogata_3
+  - first:
+      213: -1546432195013514474
+    second: fogata_4
+  - first:
+      213: 1153667714200978704
+    second: fogata_5
+  - first:
+      213: 1660312746175797835
+    second: fogata_6
+  - first:
+      213: 4450862376338927464
+    second: fogata_7
+  - first:
+      213: 9044400333706050920
+    second: fogata_8
+  - first:
+      213: -1546944188226308053
+    second: fogata_9
+  - first:
+      213: -9204414266249506241
+    second: fogata_10
+  - first:
+      213: -4126358449401490018
+    second: fogata_11
+  - first:
+      213: 1254405916425191552
+    second: fogata_12
+  - first:
+      213: 1318389881422995320
+    second: fogata_13
+  - first:
+      213: 8631437567744754280
+    second: fogata_14
+  - first:
+      213: -5769898619154907607
+    second: fogata_15
+  - first:
+      213: -6777551553702150096
+    second: fogata_16
+  - first:
+      213: 2086583701964777770
+    second: fogata_17
+  - first:
+      213: -2819293270489039215
+    second: fogata_18
+  - first:
+      213: 5905127740511360800
+    second: fogata_19
+  - first:
+      213: -2471505315673192395
+    second: fogata_20
+  - first:
+      213: -8149795776615999545
+    second: fogata_21
+  - first:
+      213: -8069168286120592290
+    second: fogata_22
+  - first:
+      213: -1902566411148089687
+    second: fogata_23
+  - first:
+      213: 8412895824075394956
+    second: fogata_24
+  - first:
+      213: -8736773210499186739
+    second: fogata_25
+  - first:
+      213: -4348280571342831401
+    second: fogata_26
+  - first:
+      213: 4686934012711019976
+    second: fogata_27
+  - first:
+      213: -5843334967862701777
+    second: fogata_28
+  - first:
+      213: -982705490109886450
+    second: fogata_29
+  - first:
+      213: -4777306488212396605
+    second: fogata_30
+  - first:
+      213: -508977671215417684
+    second: fogata_31
+  - first:
+      213: -7785337380249001522
+    second: fogata_32
+  - first:
+      213: 2476380490827431295
+    second: fogata_33
+  - first:
+      213: -4809777888011830398
+    second: fogata_34
+  - first:
+      213: -6283148102783609586
+    second: fogata_35
+  - first:
+      213: -4732497204420730554
+    second: fogata_36
+  - first:
+      213: 493496575354618542
+    second: fogata_37
+  - first:
+      213: -1718449241954330115
+    second: fogata_38
+  - first:
+      213: -6133150299160813561
+    second: fogata_39
+  - first:
+      213: 1083805107719204858
+    second: fogata_40
+  - first:
+      213: 7872561011622417188
+    second: fogata_41
+  - first:
+      213: -6869667626462505551
+    second: fogata_42
+  - first:
+      213: -3913059495687643456
+    second: fogata_43
+  - first:
+      213: 5814680895978255429
+    second: fogata_44
+  - first:
+      213: 4132268611010017100
+    second: fogata_45
+  - first:
+      213: 4805520703177779500
+    second: fogata_46
+  - first:
+      213: -6261495784879188655
+    second: fogata_47
+  - first:
+      213: -4156376390815965910
+    second: fogata_48
+  - first:
+      213: -2696656324502384663
+    second: fogata_49
+  - first:
+      213: -5780078699362101339
+    second: fogata_50
+  - first:
+      213: 3289838961797010819
+    second: fogata_51
+  - first:
+      213: -7935161793297439236
+    second: fogata_52
+  - first:
+      213: 4658679583941632136
+    second: fogata_53
+  - first:
+      213: 3113635974286905641
+    second: fogata_54
+  - first:
+      213: -505826092108893538
+    second: fogata_55
+  - first:
+      213: 5253731782375975056
+    second: fogata_56
+  - first:
+      213: -7993457551330327059
+    second: fogata_57
+  - first:
+      213: -5664512246683822003
+    second: fogata_58
+  - first:
+      213: 2426060888081235930
+    second: fogata_59
+  - first:
+      213: 2791465343523260397
+    second: fogata_60
+  - first:
+      213: 2761013332462297105
+    second: fogata_61
+  - first:
+      213: 3986800317946366601
+    second: fogata_62
+  - first:
+      213: -7574726831917742686
+    second: fogata_63
+  - first:
+      213: -6187173734751928961
+    second: fogata_64
+  - first:
+      213: -2603916744502446987
+    second: fogata_65
+  - first:
+      213: 3494432786151035377
+    second: fogata_66
+  - first:
+      213: 4742218965108721639
+    second: fogata_67
+  - first:
+      213: -7060513210645430404
+    second: fogata_68
+  - first:
+      213: 6574907910079020455
+    second: fogata_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fogata_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 623
+        width: 272
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a40237516b38d90800000000000000
+      internalID: -7096628384563705272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogata_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 616
+        width: 255
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9424cd53bc7e50430800000000000000
+      internalID: 3748657124823810633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogata_2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 621
+        width: 276
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c654c40955e9f0800000000000000
+      internalID: -439847511589994268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogata_3
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 622
+        width: 304
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a2adf0115adf8a0800000000000000
+      internalID: -6269673613530879418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogata_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 229
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bedfaac18f98ae0800000000000000
+      internalID: -1546432195013514474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogata_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 230
+        width: 280
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01549c57ca6a20010800000000000000
+      internalID: 1153667714200978704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogata_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 227
+        width: 280
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a9cdb55ad9a0710800000000000000
+      internalID: 1660312746175797835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogata_7
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 224
+        width: 308
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f25d5efb3a4cd30800000000000000
+      internalID: 4450862376338927464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c43b3ccd768f4e446a75be242a8fdfb5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fogata_0: -7096628384563705272
+      fogata_1: 3748657124823810633
+      fogata_10: -9204414266249506241
+      fogata_11: -4126358449401490018
+      fogata_12: 1254405916425191552
+      fogata_13: 1318389881422995320
+      fogata_14: 8631437567744754280
+      fogata_15: -5769898619154907607
+      fogata_16: -6777551553702150096
+      fogata_17: 2086583701964777770
+      fogata_18: -2819293270489039215
+      fogata_19: 5905127740511360800
+      fogata_2: -439847511589994268
+      fogata_20: -2471505315673192395
+      fogata_21: -8149795776615999545
+      fogata_22: -8069168286120592290
+      fogata_23: -1902566411148089687
+      fogata_24: 8412895824075394956
+      fogata_25: -8736773210499186739
+      fogata_26: -4348280571342831401
+      fogata_27: 4686934012711019976
+      fogata_28: -5843334967862701777
+      fogata_29: -982705490109886450
+      fogata_3: -6269673613530879418
+      fogata_30: -4777306488212396605
+      fogata_31: -508977671215417684
+      fogata_32: -7785337380249001522
+      fogata_33: 2476380490827431295
+      fogata_34: -4809777888011830398
+      fogata_35: -6283148102783609586
+      fogata_36: -4732497204420730554
+      fogata_37: 493496575354618542
+      fogata_38: -1718449241954330115
+      fogata_39: -6133150299160813561
+      fogata_4: -1546432195013514474
+      fogata_40: 1083805107719204858
+      fogata_41: 7872561011622417188
+      fogata_42: -6869667626462505551
+      fogata_43: -3913059495687643456
+      fogata_44: 5814680895978255429
+      fogata_45: 4132268611010017100
+      fogata_46: 4805520703177779500
+      fogata_47: -6261495784879188655
+      fogata_48: -4156376390815965910
+      fogata_49: -2696656324502384663
+      fogata_5: 1153667714200978704
+      fogata_50: -5780078699362101339
+      fogata_51: 3289838961797010819
+      fogata_52: -7935161793297439236
+      fogata_53: 4658679583941632136
+      fogata_54: 3113635974286905641
+      fogata_55: -505826092108893538
+      fogata_56: 5253731782375975056
+      fogata_57: -7993457551330327059
+      fogata_58: -5664512246683822003
+      fogata_59: 2426060888081235930
+      fogata_6: 1660312746175797835
+      fogata_60: 2791465343523260397
+      fogata_61: 2761013332462297105
+      fogata_62: 3986800317946366601
+      fogata_63: -7574726831917742686
+      fogata_64: -6187173734751928961
+      fogata_65: -2603916744502446987
+      fogata_66: 3494432786151035377
+      fogata_67: 4742218965108721639
+      fogata_68: -7060513210645430404
+      fogata_69: 6574907910079020455
+      fogata_7: 4450862376338927464
+      fogata_8: 9044400333706050920
+      fogata_9: -1546944188226308053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

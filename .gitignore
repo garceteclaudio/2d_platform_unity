@@ -1,0 +1,152 @@
+# ==============
+# UNITY SPECIFIC
+# ==============
+
+# Archivos temporales generados por Unity
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Archivos de proyecto y consola
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# Archivos de biblioteca de Unity
+/[Aa]ssets/AssetStoreTools*
+/[Ll]ibrary/
+/[Tt]empLibrary/
+
+# Archivos de metadata automática
+**/Assets/AssetStoreTools*
+
+# Archivos de auto-generación
+/AssetStoreTools*
+/ProjectSettings/Packages/
+
+
+# ==============
+# OS SPECIFIC
+# ==============
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+[Tt]humbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+
+# ==============
+# IDE SPECIFIC
+# ==============
+
+# VS Code
+.vscode/
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Visual Studio
+.vs/
+.vsconfig
+*.aps
+
+# Rider
+.idea/
+*.sln.iml
+
+
+# ==============
+# UNITY PACKAGES
+# ==============
+
+# Paquetes instalados vía UPM (Unity Package Manager)
+/Packages/packages-lock.json
+
+
+# ==============
+# BUILD OUTPUTS
+# ==============
+
+# Builds finales
+/[Bb]uilds/
+/[Bb]uild/
+/[Oo]utput/
+
+
+# ==============
+# ASSET SPECIFIC
+# ==============
+
+# Cache de importación de assets
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/AssetBundles/**
+
+# Archivos de cache
+/.cache/
+
+
+# ==============
+# EXCEPCIONES (Archivos que SÍ deben estar en git)
+# ==============
+
+# Estos son CRÍTICOS para el proyecto y DEBEN estar en el repositorio
+!/[Pp]rojectSettings/PackagesSettings.json
+!/[Pp]rojectSettings/ProjectSettings.asset
+!/[Pp]rojectSettings/ProjectVersion.txt
+!/[Pp]rojectSettings/EditorBuildSettings.asset
+!/[Pp]rojectSettings/InputManager.asset
+!/[Pp]rojectSettings/GraphicsSettings.asset
+!/[Pp]rojectSettings/Physics2DSettings.asset
+!/[Pp]rojectSettings/TagManager.asset
+!/[Pp]rojectSettings/QualitySettings.asset
+!/[Pp]rojectSettings/TimeManager.asset
+!/[Pp]rojectSettings/AudioManager.asset
+
+# Assets personalizados (scripts, sprites, escenas, prefabs)
+!/[Aa]ssets/**/*.cs
+!/[Aa]ssets/**/*.png
+!/[Aa]ssets/**/*.jpg
+!/[Aa]ssets/**/*.jpeg
+!/[Aa]ssets/**/*.psd
+!/[Aa]ssets/**/*.tga
+!/[Aa]ssets/**/*.tif
+!/[Aa]ssets/**/*.tiff
+!/[Aa]ssets/**/*.bmp
+!/[Aa]ssets/**/*.gif
+!/[Aa]ssets/**/*.wav
+!/[Aa]ssets/**/*.mp3
+!/[Aa]ssets/**/*.ogg
+!/[Aa]ssets/**/*.aiff
+!/[Aa]ssets/**/*.unity
+!/[Aa]ssets/**/*.prefab
+!/[Aa]ssets/**/*.mat
+!/[Aa]ssets/**/*.anim
+!/[Aa]ssets/**/*.controller
+!/[Aa]ssets/**/*.asset
+!/[Aa]ssets/**/*.shader
+!/[Aa]ssets/**/*.ttf
+!/[Aa]ssets/**/*.otf
+!/[Aa]ssets/**/*.json
+!/[Aa]ssets/**/*.xml
+!/[Aa]ssets/**/*.txt
+
+# Packages/manifest.json DEBE estar en el repositorio
+!/[Pp]ackages/manifest.json
