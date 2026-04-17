@@ -8,6 +8,7 @@ TagManager:
   - bala
   - zombie
   - lifePoints
+  - item
   layers:
   - Default
   - TransparentFX

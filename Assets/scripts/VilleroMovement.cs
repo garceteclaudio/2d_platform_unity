@@ -133,9 +133,5 @@ public class VilleroMovement : MonoBehaviour
         }
     }
 
-    private void obtenerPosicion(){
-        Vector3 pos = gameObject.transform.position;
-        float x = pos.x;
-        float y = pos.y;
-    }
+
 }

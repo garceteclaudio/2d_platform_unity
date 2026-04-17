@@ -17,6 +17,10 @@ public class NPCMovement : MonoBehaviour
 
     void Start()
     {
+        // Esto quita a los puntos de adentro del zombie y los deja sueltos en la escena
+        // pero mantienen la posición que les diste en el editor.
+        if (puntoA != null) puntoA.parent = null;
+        if (puntoB != null) puntoB.parent = null;
         rb = GetComponent<Rigidbody2D>();
         objetivo = puntoB;
     }
@@ -37,7 +41,14 @@ public class NPCMovement : MonoBehaviour
         // Evitar dirección 0
         if (Mathf.Abs(diferencia) > 0.01f)
         {
-            direccion = diferencia > 0 ? 1 : -1;
+            if (diferencia > 0)
+            {
+                direccion = 1;
+            }
+            else
+            {
+                direccion = -1;
+            }
         }
 
         rb.linearVelocity = new Vector2(direccion * velocidad, rb.linearVelocity.y);
@@ -61,5 +72,19 @@ public class NPCMovement : MonoBehaviour
         Vector3 scale = transform.localScale;
         scale.x = Mathf.Abs(scale.x) * direccion;
         transform.localScale = scale;
+    }
+
+    void OnDrawGizmos()
+    {
+        if (puntoA != null && puntoB != null)
+        {
+            // Dibuja una línea entre los puntos
+            Gizmos.color = Color.cyan;
+            Gizmos.DrawLine(puntoA.position, puntoB.position);
+
+            // Dibuja esferas en los extremos
+            Gizmos.DrawWireSphere(puntoA.position, 0.3f);
+            Gizmos.DrawWireSphere(puntoB.position, 0.3f);
+        }
     }
 }

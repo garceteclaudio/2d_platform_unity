@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ZombieMovement : MonoBehaviour
+public class ZombieMovement : MonoBehaviour, IDamageable
 {
     [Header("Movement Settings")]
     public Transform pointA;
@@ -12,20 +12,6 @@ public class ZombieMovement : MonoBehaviour
 
     private int lifePoints = 4;
 
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("bala"))
-        {
-            lifePoints -= 1;
-            Destroy(collision.gameObject);
-            if (lifePoints == 0) {
-                // Destruir el zombie (opcional pero recomendado)
-                Destroy(gameObject);
-            }
-
-        }
-    }
 
     void Start()
     {
@@ -96,5 +82,41 @@ public class ZombieMovement : MonoBehaviour
             Gizmos.DrawWireSphere(pointA.position, 0.3f);
             Gizmos.DrawWireSphere(pointB.position, 0.3f);
         }
+    }
+
+
+
+    /*
+private void OnCollisionEnter2D(Collision2D collision)
+{
+    if (collision.gameObject.CompareTag("bala"))
+    {
+        lifePoints -= 1;
+        Destroy(collision.gameObject);
+        if (lifePoints == 0) {
+            // Destruir el zombie (opcional pero recomendado)
+            Destroy(gameObject);
+        }
+
+    }
+}
+*/
+
+
+    public void TakeDamage(int amount)
+    {
+        lifePoints -= amount;
+
+        Debug.Log("Zombie recibió daño. Vida restante: " + lifePoints);
+
+        if (lifePoints <= 0)
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        Destroy(gameObject);
     }
 }
