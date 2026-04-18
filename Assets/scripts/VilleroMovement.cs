@@ -20,10 +20,12 @@ public class VilleroMovement : MonoBehaviour
     private int lifePoints = 5;
     private GameObject[] lifeUI;
 
+    private InventoryManager inventoryManager;
 
 
     void Start()
     {
+        inventoryManager = FindAnyObjectByType<InventoryManager>();
         // Obtener todas las vidas del canvas
         lifeUI = GameObject.FindGameObjectsWithTag("lifePoints");
 
@@ -87,6 +89,28 @@ public class VilleroMovement : MonoBehaviour
     // Detectar suelo (simple)
     private void OnCollisionEnter2D(Collision2D collision)
     {
+
+        if (collision.gameObject.CompareTag("itemEspada"))
+        {
+            //Destroy(collision.gameObject);
+            inventoryManager.AddEspada();
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.gameObject.CompareTag("itemPistola"))
+        {
+            inventoryManager.AddPistola();
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.gameObject.CompareTag("itemLifePoints"))
+        {
+            inventoryManager.AddLifePoints();
+            Destroy(collision.gameObject);
+        }
+
+
+
         if (collision.gameObject.CompareTag("suelo"))
         {
             isGrounded = true;

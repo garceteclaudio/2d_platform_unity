@@ -9,6 +9,10 @@ TagManager:
   - zombie
   - lifePoints
   - item
+  - itemArma
+  - itemEspada
+  - itemPistola
+  - itemLifePoints
   layers:
   - Default
   - TransparentFX

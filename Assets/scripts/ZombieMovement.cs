@@ -31,9 +31,15 @@ public class ZombieMovement : MonoBehaviour, IDamageable
     {
         if (movingRight)
         {
+            //current → posición actual
+            //target → destino
+            //maxDistanceDelta → cuánto puede avanzar en este frame
+            // Vector2.MoveTowards(current, target, maxDistanceDelta)
+
+            // transform.position = Posición actual 
             // Mover hacia pointB
             transform.position = Vector2.MoveTowards(
-                transform.position,
+                transform.position, //Solo cambia el eje X, mantiene el Y actual.
                 new Vector2(pointB.position.x, transform.position.y),
                 speed * Time.deltaTime
             );
