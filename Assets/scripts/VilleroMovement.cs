@@ -25,7 +25,8 @@ public class VilleroMovement : MonoBehaviour
 
     void Start()
     {
-        inventoryManager = FindAnyObjectByType<InventoryManager>();
+        // inventoryManager = FindObjectOfType<InventoryManager>(); esta deprecada porque si hay más de uno, solo encuentra el primero y puede generar errores. FindAnyObjectByType es la nueva forma recomendada.
+        inventoryManager = FindFirstObjectByType<InventoryManager>();
         // Obtener todas las vidas del canvas
         lifeUI = GameObject.FindGameObjectsWithTag("lifePoints");
 
@@ -113,7 +114,20 @@ public class VilleroMovement : MonoBehaviour
 
         if (collision.gameObject.CompareTag("suelo"))
         {
-            isGrounded = true;
+            foreach (ContactPoint2D contact in collision.contacts)
+            {
+                /* contact.normal.y
+                 Esto es la clave Es un vector que indica desde dónde viene la colisión.
+                ✔️ solo detecta cuando estás parado arriba
+                ❌ ignora paredes
+                ❌ ignora techo
+                 */
+                if (contact.normal.y > 0.5f)
+                {
+                    isGrounded = true;
+                    break;
+                }
+            }
         }
 
         if (collision.gameObject.CompareTag("zombie"))

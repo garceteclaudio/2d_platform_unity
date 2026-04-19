@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: a6a022b77164b2c47b8001e54716ab0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7361089285153804354
+    second: tokyo-removebg_0
+  - first:
+      213: 628073723304692355
+    second: tokyo-removebg_1
+  - first:
+      213: -1998398783261428549
+    second: tokyo-removebg_2
+  - first:
+      213: -9046953617738719067
+    second: tokyo-removebg_3
+  - first:
+      213: -5723774675523983044
+    second: tokyo-removebg_4
+  - first:
+      213: -396196446487871895
+    second: tokyo-removebg_5
+  - first:
+      213: 1359831206699658928
+    second: tokyo-removebg_6
+  - first:
+      213: -1614901170203693591
+    second: tokyo-removebg_7
+  - first:
+      213: -6890476046346068839
+    second: tokyo-removebg_8
+  - first:
+      213: 1442692943711238388
+    second: tokyo-removebg_9
+  - first:
+      213: -7364079235289903092
+    second: tokyo-removebg_10
+  - first:
+      213: -8889017901184158768
+    second: tokyo-removebg_11
+  - first:
+      213: -6268750493487371037
+    second: tokyo-removebg_12
+  - first:
+      213: 3742985602931773537
+    second: tokyo-removebg_13
+  - first:
+      213: 2842875643957656531
+    second: tokyo-removebg_14
+  - first:
+      213: 4243531969149693035
+    second: tokyo-removebg_15
+  - first:
+      213: -3891222067551514763
+    second: tokyo-removebg_16
+  - first:
+      213: 2346279384483423284
+    second: tokyo-removebg_17
+  - first:
+      213: -5046208993218280644
+    second: tokyo-removebg_18
+  - first:
+      213: -8031423838112171211
+    second: tokyo-removebg_19
+  - first:
+      213: 5114384287379312153
+    second: tokyo-removebg_20
+  - first:
+      213: -4373137730031584319
+    second: tokyo-removebg_21
+  - first:
+      213: 4436496034940146499
+    second: tokyo-removebg_22
+  - first:
+      213: 5134118194135472316
+    second: tokyo-removebg_23
+  - first:
+      213: 2958442701257152471
+    second: tokyo-removebg_24
+  - first:
+      213: 1596625750340851391
+    second: tokyo-removebg_25
+  - first:
+      213: 1978025357814756557
+    second: tokyo-removebg_26
+  - first:
+      213: -5826953207379302596
+    second: tokyo-removebg_27
+  - first:
+      213: -1441654068606921451
+    second: tokyo-removebg_28
+  - first:
+      213: 3338432893682359312
+    second: tokyo-removebg_29
+  - first:
+      213: -9157264739163131570
+    second: tokyo-removebg_30
+  - first:
+      213: 6282714482100393847
+    second: tokyo-removebg_31
+  - first:
+      213: -3161659116212922424
+    second: tokyo-removebg_32
+  - first:
+      213: -7721615365916786824
+    second: tokyo-removebg_33
+  - first:
+      213: -3244936801536181889
+    second: tokyo-removebg_34
+  - first:
+      213: 1610169382884026126
+    second: tokyo-removebg_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tokyo-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 133
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4312405e24444e0800000000000000
+      internalID: -1998398783261428549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 409
+        width: 141
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e71d95e6d608af0800000000000000
+      internalID: -396196446487871895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 409
+        width: 133
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed65aa11f7b699e0800000000000000
+      internalID: -1614901170203693591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 294
+        width: 139
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0017bab3f88dc990800000000000000
+      internalID: -7364079235289903092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 294
+        width: 136
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d374dd905dd3a480800000000000000
+      internalID: -8889017901184158768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 294
+        width: 133
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec6122b3ace009a0800000000000000
+      internalID: -6268750493487371037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-jump3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 154
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e45168961f9f640800000000000000
+      internalID: 5114384287379312153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-jump2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 137
+        width: 122
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343590263a9919d30800000000000000
+      internalID: 4436496034940146499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-jump1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 136
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8905cbb4d004740800000000000000
+      internalID: 5134118194135472316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-jump4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 19
+        width: 141
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c9a6e670f745e20800000000000000
+      internalID: 3338432893682359312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-jump5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41b8fbac3cdae080800000000000000
+      internalID: -9157264739163131570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokyo-jump6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 10
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777dbc2c88fa03750800000000000000
+      internalID: 6282714482100393847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: defa9f825febac64092d7c28fee90eef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tokyo-jump1: 5134118194135472316
+      tokyo-jump2: 4436496034940146499
+      tokyo-jump3: 5114384287379312153
+      tokyo-jump4: 3338432893682359312
+      tokyo-jump5: -9157264739163131570
+      tokyo-jump6: 6282714482100393847
+      tokyo-removebg_0: -1998398783261428549
+      tokyo-removebg_1: -396196446487871895
+      tokyo-removebg_13: 3742985602931773537
+      tokyo-removebg_14: 2842875643957656531
+      tokyo-removebg_15: 4243531969149693035
+      tokyo-removebg_16: -3891222067551514763
+      tokyo-removebg_17: 2346279384483423284
+      tokyo-removebg_18: -5046208993218280644
+      tokyo-removebg_19: -8031423838112171211
+      tokyo-removebg_2: -1614901170203693591
+      tokyo-removebg_21: -4373137730031584319
+      tokyo-removebg_24: 2958442701257152471
+      tokyo-removebg_25: 1596625750340851391
+      tokyo-removebg_26: 1978025357814756557
+      tokyo-removebg_27: -5826953207379302596
+      tokyo-removebg_28: -1441654068606921451
+      tokyo-removebg_3: -7364079235289903092
+      tokyo-removebg_32: -3161659116212922424
+      tokyo-removebg_33: -7721615365916786824
+      tokyo-removebg_34: -3244936801536181889
+      tokyo-removebg_35: 1610169382884026126
+      tokyo-removebg_4: -8889017901184158768
+      tokyo-removebg_5: -6268750493487371037
+      tokyo-removebg_6: 1359831206699658928
+      tokyo-removebg_8: -6890476046346068839
+      tokyo-removebg_9: 1442692943711238388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

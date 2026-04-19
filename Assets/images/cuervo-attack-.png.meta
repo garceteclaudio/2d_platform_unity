@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: ee406c39ed90bb64c8e51b4049a6ffed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5154524526134074223
+    second: cuervo-attack-_0
+  - first:
+      213: 404098286742722605
+    second: cuervo-attack-_1
+  - first:
+      213: -632475159865622773
+    second: cuervo-attack-_2
+  - first:
+      213: -1732036774997179689
+    second: cuervo-attack-_3
+  - first:
+      213: 81764239997651346
+    second: cuervo-attack-_4
+  - first:
+      213: -7597340180572047036
+    second: cuervo-attack-_5
+  - first:
+      213: 1111929292124804228
+    second: cuervo-attack-_6
+  - first:
+      213: -6456651767720314912
+    second: cuervo-attack-_7
+  - first:
+      213: -3755993094927385549
+    second: cuervo-attack-_8
+  - first:
+      213: -5219204092312954317
+    second: cuervo-attack-_9
+  - first:
+      213: 417656575411735293
+    second: cuervo-attack-_10
+  - first:
+      213: 2226620738382219522
+    second: cuervo-attack-_11
+  - first:
+      213: 2053031782579411535
+    second: cuervo-attack-_12
+  - first:
+      213: 6213118020306029163
+    second: cuervo-attack-_13
+  - first:
+      213: -5223067911970919884
+    second: cuervo-attack-_14
+  - first:
+      213: 7581351514817970862
+    second: cuervo-attack-_15
+  - first:
+      213: 3980600405610224703
+    second: cuervo-attack-_16
+  - first:
+      213: -4556336689569150409
+    second: cuervo-attack-_17
+  - first:
+      213: 2610784741230514622
+    second: cuervo-attack-_18
+  - first:
+      213: -878108219592720639
+    second: cuervo-attack-_19
+  - first:
+      213: 4918262441159477330
+    second: cuervo-attack-_20
+  - first:
+      213: -192885870671980653
+    second: cuervo-attack-_21
+  - first:
+      213: 2736517415183161417
+    second: cuervo-attack-_22
+  - first:
+      213: -3208278872729017272
+    second: cuervo-attack-_23
+  - first:
+      213: 1969636019072182223
+    second: cuervo-attack-_24
+  - first:
+      213: -3598997633641600201
+    second: cuervo-attack-_25
+  - first:
+      213: -23623044498775530
+    second: cuervo-attack-_26
+  - first:
+      213: 1765135892459456230
+    second: cuervo-attack-_27
+  - first:
+      213: 5356121660893683947
+    second: cuervo-attack-_28
+  - first:
+      213: 2376094212892937081
+    second: cuervo-attack-_29
+  - first:
+      213: -4526983741728847608
+    second: cuervo-attack-_30
+  - first:
+      213: 1607346051420691828
+    second: cuervo-attack-_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 796
+        width: 330
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1946db9d0437778b0800000000000000
+      internalID: -5154524526134074223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 683
+        width: 349
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f73fe613ff837f0800000000000000
+      internalID: -632475159865622773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 826
+        width: 260
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d24168dab196f7e0800000000000000
+      internalID: -1732036774997179689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 668
+        width: 347
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299c360a42c722100800000000000000
+      internalID: 81764239997651346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuervo-attack-_6
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 729
+        width: 369
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845378cccd5e6f00800000000000000
+      internalID: 1111929292124804228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuervo-attack-_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 142
+        width: 218
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f33d80a3550d3f0800000000000000
+      internalID: -878108219592720639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuervo-attack-_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 106
+        width: 256
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258c475d1ad214440800000000000000
+      internalID: 4918262441159477330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuervo-attack-_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 106
+        width: 285
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94899a527101af520800000000000000
+      internalID: 2736517415183161417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuervo-attack-_23
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 129
+        width: 252
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844a89a0d57e973d0800000000000000
+      internalID: -3208278872729017272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d086a4fe54bb84d4e9baab441a81ea2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1: -5154524526134074223
+      3: 81764239997651346
+      4: -632475159865622773
+      9: -1732036774997179689
+      cuervo-attack-_1: 404098286742722605
+      cuervo-attack-_10: 417656575411735293
+      cuervo-attack-_11: 2226620738382219522
+      cuervo-attack-_12: 2053031782579411535
+      cuervo-attack-_13: 6213118020306029163
+      cuervo-attack-_14: -5223067911970919884
+      cuervo-attack-_15: 7581351514817970862
+      cuervo-attack-_16: 3980600405610224703
+      cuervo-attack-_17: -4556336689569150409
+      cuervo-attack-_18: 2610784741230514622
+      cuervo-attack-_19: -878108219592720639
+      cuervo-attack-_20: 4918262441159477330
+      cuervo-attack-_21: -192885870671980653
+      cuervo-attack-_22: 2736517415183161417
+      cuervo-attack-_23: -3208278872729017272
+      cuervo-attack-_24: 1969636019072182223
+      cuervo-attack-_25: -3598997633641600201
+      cuervo-attack-_26: -23623044498775530
+      cuervo-attack-_27: 1765135892459456230
+      cuervo-attack-_28: 5356121660893683947
+      cuervo-attack-_29: 2376094212892937081
+      cuervo-attack-_30: -4526983741728847608
+      cuervo-attack-_31: 1607346051420691828
+      cuervo-attack-_5: -7597340180572047036
+      cuervo-attack-_6: 1111929292124804228
+      cuervo-attack-_7: -6456651767720314912
+      cuervo-attack-_8: -3755993094927385549
+      cuervo-attack-_9: -5219204092312954317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
